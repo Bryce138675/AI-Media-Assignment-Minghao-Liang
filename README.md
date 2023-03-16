@@ -2,7 +2,7 @@
 
 1. Assignment1:
 
-At first, I chose images as my dataset and I downloaded over two hundred of them. Then when I did my mini project, I downloaded music as my dataset. However, as the music dataset is too large, I randomly selected two songs from each group in the dataset (14 songs in total) and uploaded them all to https://artslondon- my.sharepoint.com/personal/m_liang0620221_arts_ac_uk/_layouts/15/one drive.aspx?view=0.
+At first, I chose images as my dataset and I downloaded over two hundred of them. Then when I did my mini project, I downloaded music as my dataset. However, as the music dataset is too large, I randomly selected two songs from each group in the dataset (14 songs in total) and uploaded them all to https://artslondon-my.sharepoint.com/personal/m_liang0620221_arts_ac_uk/_layouts/15/onedrive.aspx?view=0. ![image](https://user-images.githubusercontent.com/119888223/225580868-a3ee7250-686e-4e00-beb0-b8391c0cc74d.png)
 
 2. Assignment2:
 
